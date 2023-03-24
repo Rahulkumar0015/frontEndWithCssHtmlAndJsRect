@@ -99,7 +99,7 @@ body {
   text-decoration: none;
 }
 
-@media (max-width: 2560px) and (min-width: 1500px) {
+@media (max-width: 2560px) and (min-width: 1441px) {
   .nav-menu {
     margin-left: 50rem;
   }
@@ -252,14 +252,14 @@ body {
   color: #6a82f4;
 }
 
-@media (max-width: 2560px) and (min-width: 1500px) {
+@media (max-width: 2560px) and (min-width: 1441px) {
   .headerConatiner-Backgrd {
     background-size: cover;
   }
-
-  .AboutUspg2 {
-    font-size: 25px;
-  }
+  .AboutUsHeading {
+     padding: 8rem;
+}
+ 
 }
 
 @media (max-width: 1440px) and (min-width: 1200) {
@@ -273,7 +273,7 @@ body {
     background-position: center;
   }
 
-  .blank-div {}
+ 
 }
 
 @media (max-width: 768px) {
@@ -329,6 +329,9 @@ body {
     height: 300px;
     /* border: 1px red solid; */
     margin-top: -1.5rem;
+  }
+  .headerConatiner-Backgrd {
+    background-image: url(/img/section1/Group\ 10252.png);
   }
 }
 
@@ -616,7 +619,7 @@ body {
   /* border: 2px rgb(47, 0, 255) solid; */
 }
 
-@media (max-width: 2560px) and (min-width: 1500px) {}
+@media (max-width: 2560px) and (min-width: 1441px) {}
 
 /*  ---------------@media quries Tablet-768-- */
 @media (max-width: 768px) {
@@ -777,7 +780,7 @@ body {
 .MillpgBcg {
   padding: 0rem;
   margin: 1rem;
-  box-shadow: 1px 1px 1rem;
+  box-shadow: 1px 1px 2rem 1rem #44b2ff;
   border: 2px #ffffff solid;
 }
 
@@ -830,6 +833,7 @@ body {
   font-weight: bold;
   color: #ffffff;
   text-align: center;
+  padding: 10px;
 
   /* border: 2px rgb(0, 255, 13) solid; */
 }
