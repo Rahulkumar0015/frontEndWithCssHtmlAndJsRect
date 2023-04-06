@@ -1,0 +1,555 @@
+@media(max-width:768px) {
+.navbar-nav{
+  background-color: rgb(160, 234, 234);
+}
+  
+}
+/* section 1 */
+@media(max-width:1440px) {
+  .headerConatiner-Backgrd {
+    padding: 24rem;
+  }
+
+  .contanierabout {
+    margin: 15px 61px;
+    padding: 88px 172px
+  }
+}
+
+@media(max-width: 1024px) {
+  .contanierabout {
+    margin: -8px 13px;
+    padding: 41px 149px;
+  }
+
+}
+
+@media(max-width:768px) {
+
+
+
+  .headerConatiner-Backgrd {
+    padding: 20rem 10rem;
+  }
+
+  .contanierabout {
+    margin: -37px 0px;
+    padding: 41px 51px;
+  }
+
+  .blank-div {
+    width: 105px;
+    border: 3px solid #6a82f4;
+    position: relative;
+    bottom: 26px;
+    left: -61px;
+  }
+
+  .AboutUspg1 {
+    font-size: 50px;
+  }
+
+  .AboutUspg2 {
+    font-size: 14px;
+  }
+
+}
+
+@media(max-width:425px) and (min-width:320px) {
+  .headerConatiner-Backgrd {
+    padding: 14rem 10rem;
+  }
+
+  .AboutUspg1 {
+    font-size: 36px;
+  }
+
+  .blank-div {
+    width: 78px;
+    border: 3px solid #6a82f4;
+    position: relative;
+    bottom: 21px;
+    left: -46px;
+  }
+
+  .AboutUspg2 {
+    font-size: 12px;
+  }
+
+  .contanierabout {
+    padding: 0px 38px;
+    margin: 93px 0px;
+  }
+
+
+}
+
+
+/* section missin  */
+
+@media(max-width: 1024px){
+.blank-div12 {
+  left: -83px;
+}
+}
+
+@media(max-width:768px) {
+  .Visbcg {
+    margin-left: 5rem;
+    margin-top: 3rem;
+  
+  
+  }
+  .misscont{
+    bottom: 99px;
+  }
+  .blank-div12 {
+    left: -157px;
+}
+
+}
+
+
+@media(max-width:425px) and (min-width:320px) {
+  .Visbcg {
+   margin-left: 0rem; 
+     margin-top: 2rem;
+     padding: 3rem;
+    
+}
+.misscont{
+  bottom: 162px;
+}
+.miss-row{
+  padding: 9px;
+}
+.Vispg {
+  font-size: 35px;
+  
+}
+.Vispg1 {
+ 
+  font-size: 13px;
+}
+
+
+}
+
+@media(max-width:425px) {
+  .blank-div12 {
+    width: 86px;
+    left: -112px;
+    border: 3px solid #6a82f4;
+}
+}
+
+@media(max-width:375px) {
+  .blank-div12 {
+    width: 91px;
+    left: -90px;
+    border: 3px solid #6a82f4;
+}
+}
+
+@media(max-width:320px) {
+  .blank-div12 {
+    width: 88px;
+    left: -61px;
+    border: 3px solid #6a82f4;
+  }
+}
+
+/* our servies 1 */
+@media(max-width:1440px) {}
+
+@media(max-width: 1024px) {
+  .imgOur {
+    height: 100%;
+  }
+
+  .OurSvPg1 {
+    font-size: 50px;
+
+  }
+
+  .OursvPg2 {
+    font-size: 15px;
+  }
+
+  .blank-div1 {
+    width: 102px;
+    left: -184px;
+  }
+}
+
+@media(max-width:768px) {
+
+  .OurSvPg1 {
+    font-size: 40px;
+
+  }
+
+  .OursvPg2 {
+    font-size: 15px;
+  }
+
+  .blank-div1 {
+    width: 76px;
+    left: -99px;
+  }
+}
+
+@media(max-width:425px) and (min-width:320px) {
+ 
+ 
+ .oursercont{
+  margin-top: -86px;;
+ }
+  .imgOur {
+    height: 100%;
+  }
+
+  .ourser-row {
+    padding: 8px;
+  }
+
+}
+
+@media(max-width:425px) {
+  .blank-div1 {
+    width: 81px;
+    left: -138px;
+  }
+}
+
+@media(max-width:375px) {
+  .blank-div1 {
+    width: 77px;
+    left: -112px;
+  }
+}
+
+@media(max-width:320px) {
+  .blank-div1 {
+    width: 75px;
+    left: -89px;
+  }
+}
+
+
+
+
+
+
+/* section port port  */
+
+@media(max-width: 1024px) {
+  .blank-div2 {
+    width: 119px;
+    left: -373px;
+  }
+}
+
+@media(max-width:768px) {
+
+  .portpg1 {
+    font-size: 46px;
+
+  }
+
+  .portpg2 {
+    font-size: 16px;
+    width: 400px;
+  }
+
+  .portBtn {
+  
+  }
+
+  .portBtnpg {
+    font-size: 18px;
+
+  }
+
+  .blank-div2 {
+    width: 107px;
+    left: -258px;
+  }
+}
+
+@media(max-width:425px) and (min-width:320px) {
+  .portpg2 {
+    font-size: 16px;
+    width: 250px;
+  }
+
+  .portMainContainerBackgd {
+    height: 500px;
+    background-size: 133% 110%;
+  }
+}
+
+@media(max-width:425px) {
+  .blank-div2 {
+    width: 108px;
+    left: -112px;
+  }
+}
+
+@media(max-width:375px) {
+  .blank-div2 {
+    width: 108px;
+    left: -84px;
+  }
+}
+
+@media(max-width:320px) {
+  .blank-div2 {
+    width: 108px;
+    left: -58px;
+  }
+}
+
+/* millon section  */
+
+
+@media(max-width:768px) {
+  .MillonBcg {}
+
+  .milcol {
+    padding: 5px;
+    margin-top: 4rem;
+  }
+
+  .milcol1div {
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+
+  .numPg {
+    font-size: 40px;
+
+
+  }
+
+  .dollPg {
+    font-size: 20px;
+
+
+
+  }
+
+  .lgPg {
+    font-size: 18px;
+  }
+
+
+}
+
+@media(max-width:425px) and (min-width:320px) {
+  .MillonBcg {}
+
+  .milcol {
+    padding: 5px;
+    margin-top: 4rem;
+  }
+
+  .milcol1div {
+    margin-left: 3rem;
+    margin-right: 2rem;
+  }
+
+  .numPg {
+    font-size: 40px;
+
+
+  }
+
+  .dollPg {
+    font-size: 20px;
+
+
+
+  }
+
+  .lgPg {
+    font-size: 18px;
+  }
+
+
+}
+
+
+/* carierr section ------ */
+
+@media(max-width:768px) {
+
+  .bcgcontactUs {
+    padding: 7rem;
+  }
+
+  .contbtn{
+    padding: 21px;
+  }
+  .contact {
+    height: 25px;
+
+  }
+
+  .contctpg {
+    font-size: 18px;
+  }
+
+  .contctpg1 {
+    font-size: 18px;
+    padding-top: 8px;
+
+  }
+
+}
+
+@media(max-width:425px) and (min-width:320px) {
+  .bcgcontactUs {
+    padding: 10rem;
+  }
+  .bcgcontactUs {
+    background-size: 130% 100%;
+  }
+  .contbtn{
+    padding: 16px 27px;
+    margin-left: 84px;
+  }
+
+  .carirbtn {
+    padding: 5px 43px;
+  }
+
+  .contdiv {
+    margin-left: -8rem;
+  }
+
+  .contdiv1 {
+    margin-left: -9rem;
+  }
+
+  .contact {
+    height: 15px;
+
+  }
+
+  .contctpg {
+    font-size: 15px;
+    width: 83px;
+  }
+
+  .contctpg1 {
+    font-size: 12px;
+
+
+  }
+
+
+}
+
+
+
+
+
+
+/* -----------------footer section ----------- */
+
+
+@media(max-width:1440px) {
+
+  .emailcontainer2 {
+    margin-top: 46px;
+  }
+
+  .outerborder {
+    border-right: 2px silver solid;
+
+
+  }
+
+  .outerborder1 {
+    border-right: 2px silver solid;
+
+
+  }
+}
+
+@media(max-width:1024px) {
+  .emailcontainer2 {
+    margin-top: 3rem;
+  }
+
+  .outerborder {
+    margin-right: -18px;
+
+  }
+
+  .outerborder1 {
+    margin-right: -18px;
+
+  }
+
+
+
+}
+
+@media(max-width:768px) {
+
+  .outerborder {
+    border-right: 0px silver solid;
+
+
+  }
+
+  .outerborder1 {
+    border-bottom: 0px silver solid;
+
+
+  }
+
+  .outerborder {
+    border-bottom: 2px silver solid;
+
+
+  }
+
+  .outerborder1 {
+    border-right: 0px silver solid;
+
+
+  }
+}
+
+@media(max-width:425px) and (min-width:320px) {
+  .outerborder {
+    border-bottom: 2px silver solid;
+
+  }
+
+  .outerborder1 {
+    border-right: 0px silver solid;
+
+
+  }
+
+  .outerborder1 {
+    border-bottom: 2px silver solid;
+
+  }
+}
+
+
+
+
+
+@media(max-width:1440px) {}
+
+@media(max-width:1020px) {}
+
+@media(max-width:768px) {}
+
+@media(max-width:425px) and (min-width:320px) {}

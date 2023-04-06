@@ -1,0 +1,250 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.headerConatiner-Backgrd {
+  background-image: url(/img/section1/Group\ 10252.png);
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: 100% 100%;
+  padding: 20rem;
+}
+.navbar{
+  font-size: 22px;
+}
+
+.contanierabout {
+  padding: 0rem;
+  position: relative;
+  bottom: 220px;
+
+
+}
+
+.AboutUspg1 {
+  font-size: 80px;
+}
+
+.AboutUspg2 {
+  font-size: 18px;
+}
+.blank-div {
+  width: 170px;
+  height: 6px;
+  border: 4px solid #6a82f4;
+  position: relative;
+  bottom: 34px;
+  margin: auto;
+  left: -100px;
+}
+
+
+/* section mission 2 */
+
+.Visbcg {
+  background: url(/img/section3/Group\ 10250.svg) no-repeat center center/cover;
+ padding: auto;
+margin: 2rem;
+
+}
+
+.misscont{
+  position: relative;
+  bottom: 109px;
+}
+.Vispg {
+  font-size: 50px;
+  
+}
+.Vispg1 {
+ 
+  font-size: 16px;
+}
+.blank-div12 {
+  width: 125px;
+  height: 6px;
+  border: 4px solid #6a82f4;
+  position: relative;
+  bottom: 18px;
+  margin: auto;
+  left: -161px;
+}
+/* section ourServices 1 */
+.OurSvPg1 {
+  font-size: 66px;
+
+}
+.blank-div1 {
+  width: 119px;
+    height: 6px;
+    border: 4px solid #6a82f4;
+    position: relative;
+    bottom: 23px;
+    margin: auto;
+    left: -276px;
+}
+
+.OursvPg2 {
+  font-size: 18px;
+  margin: 0px 0px;
+}
+
+
+
+
+/* section-2 Mobile app */
+.FlexPgOurSer {
+  font-size: 22px;
+  
+}
+
+.FleximgOurSer {
+  width: 61px;
+  height: 61px;
+}
+
+/*  section--- port  */
+.portMainContainerBackgd {
+  background-image: url("/img/section6/Group\ 10255.png");
+  background-repeat: no-repeat;
+  background-size: 115% 110%;
+  height: 400px;
+
+}
+
+.portpg1 {
+  font-size: 50px;
+
+}
+
+ .portpg2 {
+  font-size: 16px;
+width: 400px;
+} 
+.portBtn {}
+
+.portBtnpg {
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.blank-div2 {
+  width: 119px;
+    height: 6px;
+    border: 4px solid #f3eb08;
+    position: relative;
+    bottom: 23px;
+    margin: auto;
+    left: -550px;
+}
+
+
+.MillonBcg {
+  background-color: #44b2ff;
+ padding: auto;
+}
+
+.numPg {
+  font-size: 50px;
+
+
+}
+
+.dollPg {
+  font-size: 20px;
+
+
+
+}
+
+.lgPg {
+  font-size: 18px;
+width: 100%;
+border-top: 2px rgb(243, 239, 239) solid;
+}
+
+
+/* section careers */
+
+.bcgcontactUs {
+  background-image: url(/img/section9-1/Mask\ Group\ 6.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 12rem;
+}
+
+.contbtn{
+  padding: 18px;
+}
+.contact {
+  height: 30px;
+
+}
+
+.contctpg {
+  font-size: 25px;
+}
+
+.contctpg1 {
+  font-size: 25px;
+}
+
+/* footer- */
+
+.footerbcg {
+  background-color: #0C0C38;
+  padding: auto;
+}
+
+.lgimg {
+  gap: 10px;
+}
+
+.logo {
+  width: 53px;
+  height: 55px;
+}
+
+.logotitle {
+
+  font-size: 25px;
+}
+
+.add {
+
+  font-size: 16px;
+  color: #ffffffa6;
+  margin-bottom: 1rem;
+}
+
+.email {
+  width: 20px;
+  height: 25px;
+
+}
+
+.emailtitle {
+  font-size: 18px;
+
+
+}
+
+.emailcontainer {
+  margin-top: 3rem;
+}
+
+.emailcontainer1 {
+  margin-top: 26px;
+}
+
+.footercol2 {
+  margin: 32px 0px;
+}
